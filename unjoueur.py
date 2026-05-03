@@ -67,11 +67,9 @@ for i in range(4):
     codesecret.append(random.randint(1, 10)) 
 print ("voilà le code secret", codesecret) #a ne pas mettre sur l'interface, c'est juste pour vérifer pour l'instant
 
-
 #le premier essaie du joueur
 
 print ("vous allez choisir 4 chiffres entre 1 à 10, vous allez le mettre un par un")
-
 
 while tour != tentative_max :
     print("essai n°", tour, "sur",tentative_max)
@@ -94,7 +92,6 @@ while tour != tentative_max :
         #end 
     else :
         tour = tour +1
-        
         
 #défaite  -> sorti de la boucle car joueur n'a pas trouvé le codesecret
 print("Mince..vous avez perdu, le code secret était, ", codesecret) #a mettre quand tour= tentative_max 
