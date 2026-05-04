@@ -36,4 +36,4 @@ def evaluer_essai(code, essai):
         if couleur in code_restant:
             mal_place +=1
             code_restant.remove(couleur)
-    return (bien_place,mal_place)
+    return (bien_place,mal_place)  
