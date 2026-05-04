@@ -35,7 +35,7 @@ def calculer_bienplaces(essai, codesecret):
     for chiffre in range(essaie_restant):
         if chiffre == secret_restant:
             compteur =+ 1
-
+ erreur
     return compteur"""
 
 #code claude ia! correction
@@ -46,7 +46,7 @@ def calculer_malplaces(essai, codesecret):
     #                 ^^^^^^^^^^^ attention ici c'était codesecret, pas essai !
 
     # Étape 2 : compter les mal placés
-    compteur = 0
+    compteur = 0 
     for chiffre in essai_restant:
         if chiffre in secret_restant:
             compteur += 1
