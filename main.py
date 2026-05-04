@@ -58,6 +58,7 @@ def vue_choix_secret(self):
                  font=("Courier New", 10),
                  bg="#0d0d1a", fg="#8888aa").pack()
  
+ 
         frame_ap = tk.Frame(self.fen, bg="#0d0d1a")
         frame_ap.pack(pady=12)
         self._ap = []
