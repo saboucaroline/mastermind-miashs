@@ -296,3 +296,4 @@ vue_menu()
 racine.mainloop()
 
 # Ce travail a été réalisé par l'ensemble des membres du groupe, nous avons travaillé chacune de notre coté. Ce fichier est le fichier final où l'on a regrouper les efforts de chacunes, ce fichier a été réalisé sur un seul ordinateur car finalisé et perfectionner quand nous nous sommes réunies.
+# sources : cours, document officiel python, reference tkinter en francais (joins dans le cours)
