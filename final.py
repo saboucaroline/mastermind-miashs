@@ -30,6 +30,7 @@ def code_aleatoire():
 #esma
 def evaluer(secret, essai):
     bien = 0
+    mal = 0
     secret_reste = []
     essai_reste  = []
 
@@ -40,7 +41,6 @@ def evaluer(secret, essai):
             secret_reste.append(secret[i])
             essai_reste.append(essai[i])
 
-    mal = 0
     for couleur in essai_reste:
         if couleur in secret_reste:
             mal += 1
