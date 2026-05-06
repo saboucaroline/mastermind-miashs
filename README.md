@@ -8,9 +8,10 @@
   * **URL du dépôt :** https://github.com/saboucaroline/mastermind-miashs
 
   ## Organisation du groupe
-  * **Responsable GitHub :** 
-  * **Responsable Qualité :**
-  * **Développeur :**
-  * **Développeur :**
+  * **Responsable GitHub : Sabou Caroline** 
+  * **Responsable Qualité : Cenik Esma**
+  * **Développeur interfase : Guidigan Sylvana et Hashan Sadati**
+  * **Développeur logique du jeu : Cenik Esma et Sabou Caroline**
 
   ## Utilisation du programme
+  
